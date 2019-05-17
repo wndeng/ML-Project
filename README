@@ -1,0 +1,7 @@
+This is the library used for my ML project on Process Control using ANN. To simply check the results, run "python paper.py --test."
+
+Because the result for the ANN and PID are so similar, I commented out one of the plots so they plot individually. 
+
+The training and process parameters are in config.py.
+
+The pre-trained network is saved as nn5.pt
